@@ -1,6 +1,6 @@
-# Final Year Project Showcase
+# Final Year Project - Warble
 
-This is a simple webpage for final year project.
+This is a project landing page for the final year project, Warble.
 
 ## Features
 - Links to project deliverables (updated as needed)
